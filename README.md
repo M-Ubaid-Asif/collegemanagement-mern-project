@@ -1,7 +1,7 @@
 ### .env file 
 first create .env file in backend
 and write PORT = 8999 
-        MONGO_URL = 'http://localhost:...'
+        MONGO_URL = 'http://localhost:....'
 
 
 # Getting Started with Create React App
