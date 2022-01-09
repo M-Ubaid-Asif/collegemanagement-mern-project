@@ -65,7 +65,7 @@ const addStudent = ()=>{
     console.log('sucess')
   }).catch(err=>console.log(err))
   
-  clearInputVal.current.value = ''
+  // clearInputVal.current.value = ''
 setadded(!added)
 }
 
